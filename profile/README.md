@@ -3,3 +3,5 @@
 
 
 **Ця організація використовується як Web-сайт. А репозиторії як сховище цього сайту --> https://wikicld.github.io/** 
+
+ChimeraLanD Wiki - база - про гру Chimeraland
